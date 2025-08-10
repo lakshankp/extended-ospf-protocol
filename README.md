@@ -58,9 +58,7 @@ if visited_count >= 0.9 * total_nodes:
 
 ## Results
 
-![Convergence Time Comparison](images/convergence_results.png)
-
-*Figure: Convergence time comparison between Standard OSPF and Extended OSPF across different network topologies*
+<img src="images/ima1.jpg" alt="App Home Screen" width="300"/>
 
 ### Performance Improvements:
 - **Convergence Time**: Significant reduction achieved across all network topologies
@@ -108,6 +106,9 @@ if visited_count >= 0.9 * total_nodes:
 - **Libraries**: NetworkX, Matplotlib, NumPy
 - **Algorithms**: Dijkstra's Algorithm, Graph Traversal, Sorting Algorithms
 - **Concepts**: Object-Oriented Programming, Graph Theory, Network Simulation
+
+##  Simulation Architecture
+<img src="images/dd (1).jpeg" alt="App Home Screen" width="300"/>
 
 ## Team Collaboration
 
