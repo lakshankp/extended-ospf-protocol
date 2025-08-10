@@ -58,7 +58,7 @@ if visited_count >= 0.9 * total_nodes:
 
 ## Results
 
-<img src="images/ima1.jpg" alt="App Home Screen" width="300"/>
+<img src="images/WhatsApp Image 2025-07-05 at 19.54.36_6115bf99.jpg" alt="App Home Screen" width="300"/>
 
 ### Performance Improvements:
 - **Convergence Time**: Significant reduction achieved across all network topologies
