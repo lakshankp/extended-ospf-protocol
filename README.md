@@ -58,7 +58,7 @@ if visited_count >= 0.9 * total_nodes:
 
 ## Results
 
-<img src="images/WhatsApp Image 2025-07-05 at 19.54.36_6115bf99.jpg" alt="App Home Screen" width="300"/>
+<img src="images/WhatsApp Image 2025-07-05 at 19.54.36_6115bf99.jpg" alt="App Home Screen" />
 
 ### Performance Improvements:
 - **Convergence Time**: Significant reduction achieved across all network topologies
@@ -108,7 +108,7 @@ if visited_count >= 0.9 * total_nodes:
 - **Concepts**: Object-Oriented Programming, Graph Theory, Network Simulation
 
 ##  Simulation Architecture
-<img src="images/dd (1).jpeg" alt="App Home Screen" width="300"/>
+<img src="images/dd (1).jpeg" alt="App Home Screen" />
 
 ## Team Collaboration
 
